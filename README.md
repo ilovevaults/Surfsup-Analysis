@@ -1,4 +1,4 @@
-# Surfsup-Analysis
+# Surfsup Shop
 ## Goals
 The goal of this analysis is to take weather data specifically the temperature in Hawaii and determine if the business should keep open or close either their ice cream shop, surf shop, or both. The data used contains weather info all year round from 2010-2017
 From the results we can determine whether or not keeping the surf and ice cream shop year round will be sustinable.
